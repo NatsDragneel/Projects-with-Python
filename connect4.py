@@ -44,3 +44,4 @@ while(True):
     drawField(currentField)
     print(currentField)
 
+# this is kind of nice game
